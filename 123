@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <title>My Most Hideous Page Ever</title>
+
+    <!--
+      We are going to start using normalize.css by Nicolas Gallagher to
+      get our browsers to render things more consistently out of the 
+      box; saves us some time in cross-browser issues later on
+    -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <!-- Here we are adding in our link to the CSS file for our page -->
+    <link rel="stylesheet" href="css/main.css">
+
+  </head>
+
+
+  <body>
+
+    <h1>My Most Hideous Page Ever</h1>
+  </body>
+  </html>
